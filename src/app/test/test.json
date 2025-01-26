@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Street Triple R",
+    "brand": "Triumph",
+    "model": "2023",
+    "price": 1200,
+    "category": "Sport",
+    "availability": "In Stock",
+    "imageUrl": "https://i.ibb.co.com/tPKW8z2/Untitled-1.jpg"
+  },
+  {
+    "name": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "model": "2022",
+    "price": 4000,
+    "category": "Cruiser",
+    "availability": "Limited Stock",
+    "imageUrl": "https://i.ibb.co.com/N2qpg2F/Untitled-5.jpg"
+  },
+  {
+    "name": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "model": "2023",
+    "price": 3800,
+    "category": "Sport",
+    "availability": "In Stock",
+    "imageUrl": "https://i.ibb.co.com/GxKBHMX/Untitled-4.jpg"
+  },
+  {
+    "name": "KTM Duke 250",
+    "brand": "KTM",
+    "model": "2022",
+    "price": 5200,
+    "category": "Naked",
+    "availability": "Out of Stock",
+    "imageUrl": "https://i.ibb.co.com/RDw7KSg/Untitled-6.jpg"
+  },
+  {
+    "name": "Harley-Davidson Iron 883",
+    "brand": "Harley-Davidson",
+    "model": "2023",
+    "price": 1050,
+    "category": "Cruiser",
+    "availability": "In Stock",
+    "imageUrl": "https://i.ibb.co.com/R2R49J1/Untitled-2.jpg"
+  },
+  {
+    "name": "Honda CB500X",
+    "brand": "Honda",
+    "model": "2023",
+    "price": 7500,
+    "category": "Adventure",
+    "availability": "In Stock",
+    "imageUrl": "https://i.ibb.co.com/xjkZsfV/Untitled-18.jpg"
+  }
+]
